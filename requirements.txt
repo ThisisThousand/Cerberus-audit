@@ -1,0 +1,12 @@
+# --- UI & Terminal Formatting ---
+rich==13.7.0
+
+# --- System & Process Monitoring ---
+psutil==5.9.8
+
+# --- Networking & API ---
+requests==2.31.0
+urllib3==2.2.1
+
+# --- Utilities ---
+python-dotenv==1.0.1
